@@ -1,0 +1,9 @@
+{
+    "list":[
+        {"id": 1, "name":"Arianit", "age":20, "city":"Prizren"},
+        {"id": 2, "name":"Dren", "age":22, "city":"Mushtisht"},
+        {"id": 3, "name":"Erblin", "age":21, "city":"Suhareke"},
+        {"id": 4, "name":"Blend", "age":23, "city":"Suhareke"},
+        {"id": 5, "name":"Leart", "age":24, "city":"Samadrexhe"}
+    ]
+}
